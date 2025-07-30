@@ -2,7 +2,7 @@ Nama : Niicholas Aditya Fernando N
 Nim : 4222201035
 Kelas : Robotika A Pagi Sem 6
 
-# 🇮🇩 Indonesian License Plate OCR with VLM (Google Gemma 3 4B via LMStudio)
+# Indonesian License Plate OCR with VLM (Google Gemma 3 4B via LMStudio)
 
 Proyek ini menggunakan **Visual Language Model (VLM)** melalui **LMStudio** untuk melakukan Optical Character Recognition (OCR) pada plat nomor kendaraan Indonesia. Model yang digunakan adalah `google/gemma-3-4b`. Evaluasi dilakukan menggunakan metrik **Character Error Rate (CER)**.
 
